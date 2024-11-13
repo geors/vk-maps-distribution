@@ -19,33 +19,33 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "core",
-            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5105/core.xcframework.zip",
-            checksum: "678723882ab0bb7d0cb1d88dfb5d4170833c43ae488a0f5ced77071754d47e4a"
+            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5129/core.xcframework.zip",
+            checksum: "a9937f3c8865295c1161e0664188618a952566715f5404216d3b779c0a74c74d"
         ),
         .binaryTarget(
             name: "CoreBridge",
-            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5105/CoreBridge.xcframework.zip",
-            checksum: "43db66c51a64c46cb4fb29aafe9a7e8647f738a63878ff9d51be7d6c3328a539"
+            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5129/CoreBridge.xcframework.zip",
+            checksum: "627a630a9db37a96f50f36a6d441ed2b69bdeefabdacd1e704374935542e1cd5"
         ),
         .binaryTarget(
             name: "CoreSwiftBridge",
-            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5105/CoreSwiftBridge.xcframework.zip",
-            checksum: "07023fb672ad09bf1d3e2ea466f3573c193fd5f290643ea9b518a67609cf4592"
+            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5129/CoreSwiftBridge.xcframework.zip",
+            checksum: "c7703ed9c906da238a8bcf0a7e4ebf3e4dc74cec4fea3bd0fda2099488edd33d"
         ),
         .binaryTarget(
             name: "MapsNativeBridge",
-            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5105/MapsNativeBridge.xcframework.zip",
-            checksum: "a272b1e4d275fef39f54e51ad3481b40d6675c3aa64e9002d7f4fa413c8f7673"
+            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5129/MapsNativeBridge.xcframework.zip",
+            checksum: "e33fcf6a4f6db7ed0c702d00c4784ee2db446535c1c50b78d7e29350c0109e94"
         ),
         .binaryTarget(
             name: "MapsNativeSDK",
-            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5105/MapsNativeSDK.xcframework.zip",
-            checksum: "3f0118deddd06aef53abb0ec3722c3987cb01edad95d54c8a038d808d0cca7c6"
+            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5129/MapsNativeSDK.xcframework.zip",
+            checksum: "fa792ca32f0db4ee76a6ffc0b5f86af92ab9650990a8b46282ba56f0693ba4c0"
         ),
         .binaryTarget(
             name: "mapsndk",
-            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5105/mapsndk.xcframework.zip",
-            checksum: "5a35ba6af4aa81952fe3e5ed2d34e98d8496158eb4a5de61c2d1864ccf1ef85b"
+            url: "https://github.com/geors/vk-maps-distribution/releases/download/0.4.5129/mapsndk.xcframework.zip",
+            checksum: "3cdbf5f1ca8013626d77caea81360cfe3490de1a67f44be45869362632781739"
         )
     ]
 )
